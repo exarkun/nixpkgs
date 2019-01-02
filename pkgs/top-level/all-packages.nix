@@ -16981,7 +16981,7 @@ in
 
   fritzing = libsForQt5.callPackage ../applications/science/electronics/fritzing { };
 
-  fsv = callPackages ../applications/misc/fsv { };
+  fsv = callPackage ../applications/misc/fsv { };
 
   fvwm = callPackage ../applications/window-managers/fvwm { };
 
